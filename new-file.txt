@@ -1,0 +1,5 @@
+hello
+The cat! 2
+The cat! 3
+New changes.
+Swithed to new-line branch.
