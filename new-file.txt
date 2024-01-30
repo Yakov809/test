@@ -4,3 +4,4 @@ The cat! 3
 New changes.
 Swithed to new-line branch.
 Я изменил файл еще раз.
+Я изменил файл после pull request.
